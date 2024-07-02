@@ -6,8 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arifraj9911](https://github.com/arifraj9911)
 
-- 💬 About Me :
-- **I'm a frontend developer passionate about crafting visually appealing and highly functional websites. With expertise in HTML, CSS, and JavaScript, I transform design ideas into seamless, interactive user experiences. I focus on responsive design and performance optimization to ensure smooth navigation across all devices. Constantly staying updated with the latest industry trends and technologies, I am dedicated to delivering innovative and efficient web solutions. My creativity and technical skills drive my commitment to bringing digital projects to life with precision and flair.**
+- 💬 About Me: **I'm a frontend developer passionate about crafting visually appealing and highly functional websites. With expertise in HTML, CSS, and JavaScript, I transform design ideas into seamless, interactive user experiences. I focus on responsive design and performance optimization to ensure smooth navigation across all devices. Constantly staying updated with the latest industry trends and technologies, I am dedicated to delivering innovative and efficient web solutions. My creativity and technical skills drive my commitment to bringing digital projects to life with precision and flair.**
 
 - 📫 How to reach me **arif.raj9911@gmail.com**
 
